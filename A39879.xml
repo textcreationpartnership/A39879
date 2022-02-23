@@ -1,0 +1,530 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>For the King and both houses of Parliament being a short relation of the sad estate and sufferings of the innocent people of God called Quakers for worshipping God and exercising a good conscience towards God and man.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39879</idno>
+            <idno type="STC">Wing F1435</idno>
+            <idno type="STC">ESTC R29850</idno>
+            <idno type="EEBO-CITATION">11213621</idno>
+            <idno type="OCLC">ocm 11213621</idno>
+            <idno type="VID">46827</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46827)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:81)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>For the King and both houses of Parliament being a short relation of the sad estate and sufferings of the innocent people of God called Quakers for worshipping God and exercising a good conscience towards God and man.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46827:1"/>
+            <pb facs="tcp:46827:1" rendition="simple:additions"/>
+            <p>FOR THE KING And both HOUSES of PARLIAMENT. Being A SHORT RELATION OF THE Sad Eſtate and Sufferings OF THE Innocent People of GOD, CALLED QUAKERS; FOR Worſhipping GOD, and Exerciſing a Good <hi>CONSCIENCE</hi> towards GOD and MAN.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:46827:2"/>
+            <pb n="3" facs="tcp:46827:2"/>
+            <head>For the KING And both HOUSES of PARLIAMENT.</head>
+            <p>FOR theſe many years ſome have been put to <hi>Death,</hi> and many have dyed in Priſons, ſome have been beat with Clubs, and ſhot at with Piſtols and Guns, and cut with Swords, and knockt down into Pools, and not long after have dyed; and many have been kept in Priſon ſeveral dayes, without Straw or Meat, and almoſt ſtarved; And many have had their Goods ſpoyled and taken away from them, to the Ruining of Them, their Wives and Families; and above Three Thouſand ſuffered Impriſonments, Stockings and Whippings in the dayes of the <hi>Commonwealth,</hi> and of <hi>Oliver Crom<g ref="char:EOLhyphen"/>wel;</hi> and above Five Thouſand have ſuffered ſince the <hi>King</hi> came into <hi>England</hi> very great Afflictions and Impriſonments; and about Seventy lye in Priſon, that were Committed in the dayes of <hi>Oliver,</hi> and the <hi>Commonwealth;</hi> and above Five Hundred are at preſent Priſoners, ſome in Dungeons, and ſome lye without Straw, and ſome are not ſuffered to have Meat brought to them; and alſo, divers are Committed every week. And beſides, many other are their Cruel Sufferings, ſome of which are here preſented to your Conſideration, who have the Power to Remedy theſe things.</p>
+            <p>
+               <hi>NOttinghamſhire,</hi> Impriſoned Fifteen, ſix of whom were taken out of a <hi>Meeting</hi> at <hi>
+                  <g ref="char:V">Ʋ</g>pton,</hi> by Souldiers, with drawn Swords, who much abuſed them, punching and beat<g ref="char:EOLhyphen"/>ing of them; And when they were brought to the Seſſions, the Juſtices ſaid they were not there that Committed them, and ſo ſlighted them; and ſome of them they put in a Pit with Thieves, who pickt their Pockets and took their Money from them, and violently pluckt off their Coats, and forced Drink upon them, and ſwore, if they would not drink they would throw it in their faces, and threatned to fire their Beds: and this was all tole<g ref="char:EOLhyphen"/>rated by the Goaler, who (as they ſaid) bid them do it; and this they did night after night. And the other Five are Impriſoned for <hi>Conſcience ſake,</hi> and <hi>not paying Tythes;</hi> where they all remain Priſoners.</p>
+            <p>
+               <hi>Warwickſhire,</hi> Impriſoned Fourteen; five, becauſe for <hi>Conſcience ſake</hi> they could not pay <hi>Tythes,</hi> who own Chriſt come in the fleſh, the <hi>Everlasting Prieſthood,</hi> who ends the <hi>firſt</hi> that takes <hi>Tythes:</hi> And Two are caſt into Priſon for <hi>meeting together, waiting upon the Lord to worſhip him;</hi> and others ſuffered for <hi>Conſcience ſake towards God:</hi> And one <hi>Friend</hi> being bound to appear at the Aſſizes, did appear, and then was bid go back; and he demanded his Bond, ſo the Judge bad him remember him to the reſt of his Brethren, and ſaid, <hi>The next Aſſizes he ſhould have his Bond, with a Halter about his Neck.</hi> And thus the Innocent is made a Prey upon: and all is, becauſe their minds and hearts are turned towards God, and for <hi>fearing, loving,</hi> and <hi>obeying</hi> him; and through the prejudice of the Magiſtrates they kept two Friends in Priſon, though they were freed by the <hi>King's Proclamation.</hi> And Four <hi>Friends</hi> were at a <hi>Meeting</hi> at <hi>Stratford</hi> upon <hi>Avon,</hi> and being of another Town, the men (called Juſtices) cauſed them to be <hi>Whipt,</hi> both men and women, and ſent away; and cauſed Two others that were at the ſame Meeting, that belonged to the Town, to be <hi>Im<g ref="char:EOLhyphen"/>priſoned.</hi>
+            </p>
+            <pb n="4" facs="tcp:46827:3"/>
+            <p>
+               <hi>Rent,</hi> Impriſoned Ten; ſome taken out of their <hi>peaceable Meetings,</hi> and ſome from their <hi>Imployments,</hi> and are cruelly uſed; And the Governour of <hi>Dover</hi> told Friends, they ſhould be kept cloſe, and none ſhould come at them, and that they ſhould take up their Proviſion at a Hole, and that was all the favour they ſhould have: And one Friend is put in a Hole where there is no Light nor Air, but through three little holes in the Door; and hath nothing to lye on, but a little Straw, which hath lain there ſeveral moneths; ſome of which Friends are Tradeſmen, on whom many Families depend to be ſet to work by.</p>
+            <p>
+               <hi>Pembrookſhire,</hi> Eighteen preſented, for not going to the <hi>Steeple-houſe,</hi> and committed Cloſe Priſoners into a cloſe, narrow, naſty, ſtinking, cold Place, and the Goaler never once opened the Door for them ſince they were put in, to have Conveniencies, but what comes in through the hole of the Door. And the Judge gave a ſtrict Charge to the <hi>Grand Jury</hi> to preſent all <hi>Friends</hi> in this County <hi>male</hi> and <hi>female,</hi> which accordingly was done, and gave Charge to all Magiſtrates and Officers to break up their <hi>Meetings;</hi> and ſo it's like the Priſons will be filled very ſoon in that County, with the Innocent and ſuch as fear God: and ſome of theſe Friends are Husbandmen, and were taken away juſt in the time of their Harveſt.</p>
+            <p>
+               <hi>Carmarthen,</hi> One Committed on the ſame <hi>Account</hi> by the ſame Judge, and was much abuſed in the <hi>Shire Hall.</hi>
+            </p>
+            <p>
+               <hi>Shropſhire,</hi> One Committed for being at a <hi>Meeting,</hi> and though the Judge gave the <hi>Goaler</hi> a Charge that he might have the Liberty of the Priſon, and to let his Friends Come to him, yet the <hi>Goaler</hi> hath Cruelly beat him and ſuffered the Priſoners to beat him, and ſtopt his Victualls that he hath been glad to pluck them up by a Cord at the Window; and there he remaines a Priſoner.</p>
+            <p>
+               <hi>Hampſhire,</hi> In <hi>Portſmouth</hi> three are in Priſon; and there Friends were Pluckt out of there Peaceable <hi>Meetings,</hi> and thruſt out of the Towne, and kickt and beat by Souldiers with the great end of their Muskers, and are not ſuffered to work in Priſon, being Handy<g ref="char:EOLhyphen"/>crafts men; Whereby they are like to be ruined for want of outwards; and often their Wives are denyed to bring them food; and one went to viſit one in Priſon and they beat him, and caſt him into Priſon alſo. And when Friends laid theſe things before the Officers, one of them ſaid he was reſolved to ruine Friends.</p>
+            <p>
+               <hi>Oxfordſhire,</hi> Four in Priſon, becauſe for Conſcience ſake, they could not <hi>Pay Tythes;</hi> And at <hi>Banbury</hi> a peaceable <hi>Meeting</hi> was broken up by Souldiers under Col. <hi>Frettwel,</hi> who drew their ſwords and ſtruck and beat Friends, and run one in the breaſt; and a Souldier with a legg of a Form beat and bruiſed ſeverall Friends; and when they had pulled out Men Women and Children out of the Meeting, they beat them, and threatned to Kill ſome of them.</p>
+            <p>
+               <hi>Wiliſhire,</hi> Eighteen: ſeverall of them very poor Men, Ten of them were taken in a Friends back-ſide, after a <hi>Meeting,</hi> by Souldiers, of whom Friends asked to ſee their <hi>War<g ref="char:EOLhyphen"/>rant,</hi> but they drew their ſword, and ſaid, <hi>This is our Warrant,</hi> and haled them away to one Captain <hi>Sharp</hi> who ſent them to Priſon without a <hi>Mittimus;</hi> where they remain Priſoners this Inſtant.</p>
+            <p>
+               <hi>Cambridgeſhire,</hi> Two Impriſoned for not paying <hi>Tythes,</hi> and Eleven for not going to the <hi>Steeple-houſes,</hi> where they remain.</p>
+            <p>
+               <hi>Glamorganſhire,</hi> Four Impriſoned, one of them haled out of a Meeting by Souldiers with Swords and Piſtols, and three of them becauſe they could not give Money to the Promooters; where they remain.</p>
+            <p>
+               <hi>Merionethſhire,</hi> Four impriſoned, and had Irons put on them for not <hi>Swearing,</hi> and the rude people ſet upon them (when they were apprehended) with drawn Swords, threatning to kill them; and one threatned to knock them on the head with an Ax; the Jaylor took their Meat from them, and beat them, and made them goe in a very tempeſtuous day 12 Miles with Irons upon them; and there being two Fidlers and a Piper Priſoners, in ſpight he ſet them a ſidling and Piping between every two that were Chained together with Irons.</p>
+            <p>
+               <hi>Mountgomeryſhire,</hi> Eight Impriſoned; ſometimes they keep Water from them, and often times keep their food from them, becauſe they will not have it of the <hi>Jaylor,</hi> and they are in a Cold Room in the Common Goale, where they lay ſix nights on the bare boards without ſtraw, and then had a wadd of ſtraw allowed them; And ſometimes are lockt up
+<pb n="5" facs="tcp:46827:3"/>and not ſuffered to go to eaſe themſelves, but are forced to do it where they lodge. Two of which were taken as they were travelling on the high way.</p>
+            <p>
+               <hi>Herefordſhire.</hi> Friends being peaceably met together in <hi>Hereford,</hi> to wait upon the Lord, the <hi>Mayor, Aldermen,</hi> and ſome Officers came into the <hi>Meeting-Room,</hi> and ſaid <hi>he would rouſe them up.</hi> Some of them ſaid, they were peaceably met together in the Fear of the Lord. He ſaid, <hi>he would have no more Meetings in the Fear of the Lord;</hi> and ſo ſent both men and women to Priſon.</p>
+            <p>One Friend was taken at <hi>Lemſter</hi> and carried to <hi>Hereford,</hi> and committed to Priſon by the Mayor of the City, where he had bars of Iron kept on his legs (which were about half an hundred weight) two dayes and one night, and was denyed to ſend to his Friends; and a Letter that he wrote to his Friends, being carried by a Friend to the Mayor, according to his Order; he kept the Letter, and committed the Friend to Priſon that brough it.</p>
+            <p>
+               <hi>Radnorſhire.</hi> Impriſoned Eight, being taken (as they were parting from a Meeting) by men who came with Swords and Staves, and threatned to drag ſome Friends at their Horſe tails; and becauſe they were asked to ſhew their Orders, one <hi>Price</hi> drew out his Sword, and ſaid, <hi>there was his Order;</hi> and ſtruck one Friend upon his Head, and cut his Hat al<g ref="char:EOLhyphen"/>moſt thorow: and ſeveral others they beat very cruelly, without mercy; and being brought before a <hi>Justice,</hi> they were committed to Priſon, until they ſhould take the <hi>Oath of Alle<g ref="char:EOLhyphen"/>giance.</hi>
+            </p>
+            <p>
+               <hi>Suffolk.</hi> Twenty Impriſoned: many of them committed for not going to the <hi>Publick Worſhip.</hi>
+            </p>
+            <p>
+               <hi>Cornwel.</hi> Above Twenty Friends were taken (as they were going from a Meeting) by Souldiers; and they put the men (being Eighteen) into a Dungeon, which was ſo little that half of them could not ſit at a time, and had no Straw nor any thing to lye on: and the women were put into a little Room in <hi>Pendennis Caſtle,</hi> and had not ſo much as Straw allowed them to lye on: And by a Warrant from two <hi>Juſtices,</hi> as much Goods was taken from them as was worth 25 l. 18 s. for driving them from Priſon to Priſon.</p>
+            <div type="account">
+               <head>Here followeth a Relation of ſome part of the Lamentable Sufferings and Havock, that is and hath been made of the People of God, by the oppreſſing Miniſters of England.</head>
+               <p>
+                  <hi>ESſex.] <hi>John Adams</hi>
+                  </hi> of <hi>Hadſtock</hi> renting a Farm of Twenty ſeven pounds a year, the Prieſt of <hi>Hadſtock</hi> demanded <hi>Tythes</hi> for the ſaid Farm for the year, 1659. and becauſe <hi>John Adams</hi> could not for Conſcience ſake pay them, the Prieſt cauſed to be taken away from him in Goods, Cattel, and Horſes, to the value of Thirty eight pounds, and returned nothing again: And this was teſtified under the hands of ſeveral Witneſſes.</p>
+               <p>In the ſame County, <hi>John Pollard</hi> of <hi>Steeple,</hi> renting a Farm of about 200 l. a year Rent, according to former Cuſtom, <hi>Tythes</hi> were paid but for three parts of the ſame, One <hi>Ar<g ref="char:EOLhyphen"/>miger</hi> claimed <hi>Tythes</hi> for three years for the ſaid Farm, which amounted to 45 l. for three parts; which <hi>John Pollard</hi> for Conſcience ſake denying to pay, the ſaid <hi>Armiger</hi> cauſed to be taken away from him Cows, Bullocks, and one Bull to the number of Eighty two in all; all which are valued to be worth 322 l. and returned nothing again: and hath kept the ſaid <hi>John Pollard</hi> and his Brother in Priſon, in the <hi>Fleet</hi> and other Priſons, ſeveral years, beſides.</p>
+               <p>
+                  <hi>Suſſex.] <hi>Nicholas Beard</hi>
+                  </hi> had taken from him by <hi>Robert Baker,</hi> Prieſt of <hi>Rottingdean,</hi> for Fifty two pounds demanded for <hi>Tythes</hi> for two years, fourteen Oxen, ſix Cows, and a Bull, worth 137 l. and nothing returned again: And in the year, 1660. the ſaid <hi>Baker</hi> came into <hi>Nicholas</hi> his Corn Fields, and took away whole Loads of <hi>Wheat</hi> and <hi>Barley,</hi> without ſetting out either Ninths or Tenths, and chooſed as he went, and ſometimes left none behind, but took all as if it had been his own: And becauſe <hi>Nicholas</hi> reproved him, he ſtruck him over the head with his Cane, in ſo much that his head was ſore ſeven or eight weeks after; and he kept the ſaid <hi>Nicholas</hi> a cloſe Priſoner in the year 1661, Twelve weeks, and ſince removed him to the <hi>Kings Bench,</hi> and demands Two hundred Pounds more for <hi>Tythes.</hi>
+               </p>
+               <pb n="6" facs="tcp:46827:4"/>
+               <p>
+                  <hi>Rent.] <hi>Edward Noaks</hi>
+                  </hi> of <hi>Word,</hi> farmed Land at the rate of Eighty pounds a year, for one years Tythe had Goods taken from him to the value of an hundred pounds, and was kept two years and an half in Priſon beſides.</p>
+               <p>And for about 706 l. 08 s. 11 d. demanded for <hi>Tythes</hi> of ſeveral other Friends, the Prieſt and others have taken Goods worth 3000 l. 03 s. 08 d. and have often taken ten times more than their pretended due.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>And there hath ſuffered Impriſonments, Stockings, Whippings, Loſs of Goods, and other abuſes; for keeping a good Conſcience towards God and man, before the King came into <hi>England</hi>—</cell>
+                        <cell>3170 Perſons.</cell>
+                     </row>
+                     <row>
+                        <cell>And there remain yet Priſoners, that were committed in the dayes of the Commonwealth, and of <hi>Oliver</hi> and <hi>Richard Cromwel</hi> —</cell>
+                        <cell>0079 Perſons.</cell>
+                     </row>
+                     <row>
+                        <cell>And there hath dyed in Priſon in their dayes, through hard uſage —</cell>
+                        <cell>0032 Perſons.</cell>
+                     </row>
+                     <row>
+                        <cell>And there hath ſuffered Impriſonments, for Refuſing <hi>to Swear,</hi> and for <hi>Meeting together,</hi> and Refuſing to go to the <hi>Publick Worſhip,</hi> and keeping a <hi>good Conſcience</hi> towards God and man, ſince the King came into <hi>England</hi>
+                        </cell>
+                        <cell>5400 Perſons.</cell>
+                     </row>
+                     <row>
+                        <cell>And there hath dyed in Priſon (ſince the <hi>King came in</hi>) through hard and cruel uſage—</cell>
+                        <cell>0014 Perſons.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>In <hi>IRELAND.</hi>
+                     </head>
+                     <row>
+                        <cell>For ſpeaking the Truth in <hi>Steeple-houſes</hi> and <hi>Markets,</hi> and for <hi>not Swearing,</hi> and for keeping a <hi>good Conſcience;</hi> there have been <hi>Whipt, Stockt, Impriſoned, Fined,</hi> and <hi>ſuffered loſs of their Goods</hi>—</cell>
+                        <cell>0200 Perſons.</cell>
+                     </row>
+                     <row>
+                        <cell>And there is at preſent in Priſon in <hi>Ireland,</hi> being taken out of a peace<g ref="char:EOLhyphen"/>able Meeting in <hi>Cork,</hi> and one other Meeting —</cell>
+                        <cell>0029 Perſons.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>
+                  <table>
+                     <head>In <hi>SCOTLAND.</hi>
+                     </head>
+                     <row>
+                        <cell>For <hi>ſpeaking the Truth,</hi> and <hi>denying the Prieſts practices,</hi> and for <hi>not Swearing,</hi> have been <hi>Impriſoned, Stockt, Whipt,</hi> and ſome <hi>Baniſhed,</hi> to the number of —</cell>
+                        <cell>0091 Perſons.</cell>
+                     </row>
+                  </table>
+               </p>
+               <p>And there are many in Priſon at preſent in <hi>Scotland,</hi> and Neceſſaries denied them, and their Friends denied to viſit them; but the certain number we know not at preſent.</p>
+               <list>
+                  <head>Here followeth an Account of Five hundred and fifty two Perſons at preſent Priſoners in <hi>England,</hi> for good Conſcience ſake.</head>
+                  <item>
+                     <hi>VVIltſhire</hi> — 21</item>
+                  <item>
+                     <hi>Cornwel</hi>—04</item>
+                  <item>
+                     <hi>Warwickſhire</hi> —14</item>
+                  <item>
+                     <hi>Somerſetſhire</hi>— 26</item>
+                  <item>
+                     <hi>Dorſetſhire</hi>—07</item>
+                  <item>
+                     <hi>Glouceſterſhire</hi>—23</item>
+                  <item>
+                     <hi>Eſſex</hi> — 15</item>
+                  <item>
+                     <hi>Bedfordſhire</hi>— 18</item>
+                  <item>
+                     <hi>Oxfordſhire</hi> —02</item>
+                  <item>
+                     <hi>Yorkſhire</hi> —13</item>
+                  <item>
+                     <hi>Northamptonſhire</hi>— 31</item>
+                  <item>
+                     <hi>Lincoln</hi>—04</item>
+                  <item>
+                     <hi>Merioneth-ſhire</hi> —04</item>
+                  <item>
+                     <hi>Devonſhire</hi> — 03</item>
+                  <item>
+                     <hi>Buckinghamſhire</hi> — 18</item>
+                  <item>
+                     <hi>Shropſhire</hi> —01</item>
+                  <item>
+                     <hi>Lancaſhire</hi>—58</item>
+                  <item>
+                     <hi>Leiceſterſhire</hi>—05</item>
+                  <item>
+                     <hi>Darbyſhire</hi> — 03</item>
+                  <item>
+                     <hi>Cambridgeſhire</hi> — 13</item>
+                  <item>
+                     <hi>Nottinghamſhire</hi>—15</item>
+                  <item>
+                     <hi>Suffolk</hi>—20</item>
+                  <item>
+                     <hi>Cheſhire</hi> — 02</item>
+                  <item>
+                     <hi>Norfolk</hi> — 08</item>
+                  <item>
+                     <hi>Suſſex</hi>—02</item>
+                  <item>
+                     <hi>Rent</hi>—12</item>
+                  <item>
+                     <hi>Staffordſhire</hi>— 34</item>
+                  <item>
+                     <hi>Worceſterſhire</hi> — 07</item>
+                  <item>
+                     <hi>Hertfordſhire</hi>—50</item>
+                  <item>
+                     <hi>Herefordſhire</hi> —15</item>
+                  <item>
+                     <hi>Hampſhire</hi> —04</item>
+                  <item>
+                     <hi>Middleſex</hi> — 16</item>
+                  <item>
+                     <hi>Radnorſhire</hi>—08</item>
+                  <item>
+                     <hi>Pembrookſhire</hi>—18</item>
+                  <item>
+                     <hi>Glamorganſhire</hi>—16</item>
+                  <item>
+                     <hi>Carmarthen</hi> —01</item>
+                  <item>
+                     <hi>Mountgomery</hi>—08</item>
+                  <item>
+                     <hi>Cumberland</hi>—08</item>
+                  <item>
+                     <hi>Huntingdonſhire</hi> —10</item>
+                  <item>
+                     <hi>Iſle</hi> of <hi>Man</hi>—20</item>
+               </list>
+               <list>
+                  <pb n="7" facs="tcp:46827:4"/>
+                  <head>Here followeth a ſhort Account of the ſad Sufferings of the People of God in the Forreign Plantations.</head>
+                  <item>IN <hi>New England,</hi> Twenty ſix Friends have been baniſhed on Pain of death.</item>
+                  <item>Four have been Martyred.</item>
+                  <item>Three have had their Eares Cut.</item>
+                  <item>One hath been burned in the hand with the Letter H.</item>
+                  <item>Thirty one Perſons have received ſix hundred and fifty ſtripes.</item>
+                  <item>One was beat while his body was like a Jelly.</item>
+                  <item>Five Appeales made to <hi>England,</hi> were denyed by <hi>Boston Rulers.</hi>
+                  </item>
+                  <item>One thouſand Forty five pounds worth of Goods hath been taken from them (being poor men) for Meeting together in the fear of the Lord, and for keeping the Com<g ref="char:EOLhyphen"/>mands of Chriſt.</item>
+               </list>
+               <list>
+                  <head>Late Sufferings in <hi>New England.</hi>
+                  </head>
+                  <item>
+                     <hi>John Curryer,</hi> an Inhabitant in <hi>Boſton,</hi> having a Wife and five Children, was Whipt throw three Townes, having ten ſtripes in a Town, with a three-fold Cord-whip, with knots at the end of it; and for returning back to his Wife and Children, was Whipt through three Townes againe, and is now in Priſon, and is to be burned in the ſhoulder with the Letter R.</item>
+                  <item>And ſix Inhabitants are now Priſoners in <hi>Boſton.</hi>
+                  </item>
+                  <item>And one is to lye in Priſon as long as he lives, by their Law.</item>
+                  <item>
+                     <hi>Anne Needham,</hi> an Inhabitant, a woman of good report, a Mother of Children, was whipt with ten ſtripes.</item>
+                  <item>
+                     <hi>Thomas Harris,</hi> was whipt in <hi>Boſton</hi> with Ten ſtripes.</item>
+                  <item>
+                     <hi>George Wilſon</hi> was Whipt at a Carts taile through three Towns, Ten ſtripes at a Town, with a Horſe Whip.</item>
+                  <item>
+                     <hi>Anne Barker</hi> was Whipt in <hi>Boſton Patent</hi> with many ſtripes, and ſhe and two more were put in the ſtocks.</item>
+                  <item>
+                     <hi>Peter Pearſon,</hi> and <hi>Judith Brown,</hi> Innocent People, had both of them Forty ſtripes, Twenty ſtripes apiece.</item>
+                  <item>Twenty-Eight Forced out of their Jurisdiction; Some of them Whipt and were not ſuffe<g ref="char:EOLhyphen"/>red Husband and Wives to go to their Families and Children; and if they did they were to be whipt out again at the Carts tayl.</item>
+                  <item>And they drove Friends out of their Jurisdiction into <hi>Plymouth</hi> Jurisdiction, and there they had a Law to whip them alſo, where <hi>George Wilſon</hi> and <hi>John Briſtow</hi> were whipt ſoon after with rods, having Ten or a Eleven ſtripes a piece in <hi>Plymouth Patent.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Hodgſhon,</hi> was whipt alſo in the ſame Patent with Nine ſtripes.</item>
+                  <item>
+                     <hi>Mary Parker</hi> was taken out of her own Houſe, and where Friends were met together, and ſix more, and put in the ſtocks, and they were much abuſed, punched and halled; and they threw them in holes of water, in ſo much that the very <hi>Indians</hi> Cryed ſhame of them.</item>
+                  <item>And when Friends ſhewed the Governours, the Kings <hi>Proclamation</hi> Concerning ſetting Friends at liberty, the Kings Subjects; he ſaid in open Court to <hi>Robert Hodgſhon,</hi> that we were None of the Kings Subjects; which <hi>Robert</hi> ſaid he would prove it by the Kings <hi>Procla<g ref="char:EOLhyphen"/>mation;</hi> and then <hi>Daniel Denniſon,</hi> another Magiſtrate ſaid, that if the King ſent over any thing that we ſhould have our Liberty, he would Conſider of it, <hi>but he would die at the Point of the Sword, he ſaid, before we ſhould have our Liberty.</hi>
+                  </item>
+                  <item>A cruel <hi>Marſhal</hi> took out of a Friends houſe, Cloathes worth Four pound, and afterward he took a Man out of his field in a rage, and ſet him in the ſtocks all night.</item>
+               </list>
+               <list>
+                  <head>Goods taken for Fines, layd upon Friends for not going to the publick Worſhip.</head>
+                  <item>From <hi>Iohn Small</hi> of <hi>Salem,</hi> a labouring man, when he was about to go to Plow, being <hi>fined</hi> Five ſhillings a day, had Goods taken worth ſixteen pound.</item>
+                  <item>Taken from <hi>Robert Buffan</hi> on the ſame Account, 10 l.</item>
+                  <pb n="8" facs="tcp:46827:5"/>
+                  <item>A Horſe from <hi>George Gardner,</hi> worth Ten pounds.</item>
+                  <item>From <hi>John Southwick,</hi> for his Wife, Thirteen pounds.</item>
+                  <item>And from his Siſter <hi>(Provided)</hi> in Cloaths from her back, and one Cow, worth Eight pounds: and would have ſold her for a <hi>Bondſlave,</hi> if any would have bought her.</item>
+                  <item>
+                     <hi>Daniel Southwick</hi> they would have ſold for a Bondſlave, but no body would buy him; ſo they attached his Houſe and Land, and threatned to put in a Tenant of their own.</item>
+                  <item>
+                     <hi>William Parker,</hi> for entertaining a Stranger, had a Cow taken from him worth 5 l.</item>
+                  <item>
+                     <hi>John Rogers,</hi> his Son and his Daughter, being found in a Neighbours houſe on the <hi>Firſt Day,</hi> had a Cow took from them, worth 4 l.</item>
+                  <item>
+                     <hi>Henry Holland,</hi> for having a Friend in his Houſe, and a <hi>Meeting,</hi> was fined 7 l. and for that he had three Cows taken from him worth 12 l.</item>
+                  <item>
+                     <hi>Arthur Howland,</hi> having a <hi>Meeting</hi> in his Houſe, had an Ox taken from him, worth 8 l.</item>
+                  <item>
+                     <hi>John Smith,</hi> for entertaining ſome of his Neighbors, was fined &amp; had taken from him 2 l.</item>
+                  <item>Taken from <hi>Will. Newland,</hi> for entertaining of <hi>Peter Pearſon,</hi> two Cows, worth about 10 l.</item>
+                  <item>Taken from <hi>Peter Gaunt,</hi> for receiving <hi>George VVilſon</hi> only ſo long a time while he did refreſh himſelf, two Cows, worth 10 l.</item>
+                  <item>Taken from <hi>Ralph Allen</hi> one Cow, worth 5 l.</item>
+                  <item>Taken from <hi>Edward Perry</hi> one Ox, worth 7 l.</item>
+                  <item>Taken from <hi>VVilliam Gifford</hi> one Ox, worth 8 l.</item>
+               </list>
+               <list>
+                  <head>Goods taken from Friends at <hi>Hampton</hi> in <hi>New-England,</hi> for Fines.</head>
+                  <item>From <hi>William Marſt<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>,</hi> for lodging of <hi>Winlock Chriſtiſon</hi> and <hi>Joſeph Allen,</hi> he had taken in dry Ginger and green Ginger, 5 l.</item>
+                  <item>And from <hi>Eliakim Wardal,</hi> for lodging <hi>Winlock Chriſtiſon</hi> and <hi>Joſeph Allen,</hi> taken away a Gelding, worth 17 l.</item>
+                  <item>And they paid him part of the <hi>Overplus</hi> in the Ginger they ſtole from <hi>William Marſton,</hi> and promiſed to pay him the reſt in Land ſomewhere in the Wilderneſs.</item>
+                  <item>And afterwards came again and took away that Ginger, and a Frying-pan beſides.</item>
+                  <item>
+                     <hi>Joſiah Cockshall</hi> of <hi>Rhoad Iſland,</hi> for going into <hi>Plymouth</hi> Juriſdiction to viſit ſome Friends, had his Horſe took from him, worth 13 l.</item>
+                  <item>
+                     <hi>Mary Dyar</hi> was put to death, for ſpeaking to the Rulers of <hi>Boſton</hi> to repeal their un<g ref="char:EOLhyphen"/>righteous Laws.</item>
+               </list>
+               <p>
+                  <hi>BARBADO'S.</hi>
+               </p>
+               <p>About Sixty were Impriſoned, and ſome Impriſoned in <hi>Cyrinan,</hi> and baniſhed into the Woods, among the Wild Beaſts, to be devoured: but the Lord preſerved them.</p>
+               <p>
+                  <hi>MARY-LAND.</hi>
+               </p>
+               <p>Two hundred ninety nine pounds twelve ſhillings and two pence worth of Goods was taken from Friends, for <hi>worſhipping of God,</hi> and Friends were cruelly abuſed, and ſome whipt beſides.</p>
+               <p>
+                  <hi>VIRGINIA.</hi>
+               </p>
+               <p>One <hi>Thomas Owen</hi> was Impriſoned for having a <hi>Meeting of Friends in his Houſe,</hi> and was put in a cloſe place, and not ſuffered to go forth to eaſe himſelf.</p>
+               <p>
+                  <hi>John Cox,</hi> a Factor for ſome Merchants in <hi>Briſtol,</hi> and a Trader for himſelf, for <hi>not put<g ref="char:EOLhyphen"/>ting off his Hat</hi> was impriſoned in the ſame place: and in his <hi>Mittimus</hi> they called him <hi>A Lude Diſſolute Perſon;</hi> and the Governour cauſed to be taken from him for the cauſe afore<g ref="char:EOLhyphen"/>ſaid, Two thouſand weight of Tobacco, all that he had both of his own and others; and he, and the aforeſaid <hi>Thomas Owen,</hi> were kept in ſuch a ſtinking Hole in the Winter ſeaſon, and not ſuffered to go forth to eaſe themſelves, and their Friends denyed to come at them to miniſter to their Neceſſities; by which Cruelty their bodies were brought ſo low, that <hi>John Cox</hi> was near death, and lay ſpeechleſs for many hours; and when they thought he was paſt recovery, they opened the Door: And this Cruelty they inflicted on him, only for <hi>not putting off his Hat,</hi> as it was expreſt by ſome of them that perſecuted him.</p>
+               <p>And Twelve other Friends were Impriſoned, for <hi>meeting together to worſhip God.</hi>
+               </p>
+               <p>
+                  <hi>William Colburn,</hi> for having a <hi>Meeting in his houſe,</hi> was fined an hundred pound <hi>Sterling.</hi>
+               </p>
+               <p>
+                  <hi>David Cuffin,</hi> for the ſame cauſe, was taken, and four more with him, and ſeverely whipt and ſent to Priſon, and fined an hundred pounds.</p>
+               <p>And ſeveral others, that are not here mentioned, have greatly ſuffered in <hi>Virginia</hi> for the worſhipping of their God, and for ſerving of him in Spirit and Truth.</p>
+               <list>
+                  <pb n="9" facs="tcp:46827:5"/>
+                  <head>Theſe Friends following were Baniſhed from the Iſland of <hi>Nevis,</hi> for Keeping their Conſciences voyd of offence towards the Lord, and had no Legall Tryall.</head>
+                  <item>
+                     <hi>Mary Fiſher.</hi>
+                  </item>
+                  <item>
+                     <hi>Peter Head.</hi>
+                  </item>
+                  <item>
+                     <hi>John Rous.</hi>
+                  </item>
+                  <item>
+                     <hi>William Robinſon.</hi>
+                  </item>
+                  <item>
+                     <hi>Chriſtopher Holder.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Harris.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Clark,</hi> baniſhed from his VVife, being an Inha<g ref="char:EOLhyphen"/>bitant there.</item>
+                  <item>
+                     <hi>Richard Pinder.</hi>
+                  </item>
+                  <item>
+                     <hi>Robert Malins.</hi>
+                  </item>
+                  <item>
+                     <hi>Joſiah Coale.</hi>
+                  </item>
+                  <item>
+                     <hi>George Rofe.</hi>
+                  </item>
+                  <item>
+                     <hi>Thomas Clarke.</hi>
+                  </item>
+                  <item>
+                     <hi>Jane Gore.</hi>
+                  </item>
+                  <item>
+                     <hi>Juſtinian Holliman,</hi> whipt and baniſhed.</item>
+                  <item>
+                     <hi>Robert Hodgſhon.</hi>
+                  </item>
+               </list>
+               <p>It was their conſtant courſe, that when they heard any Freinds were come to the <hi>Iſland,</hi> to never leave hunting after them till they had found them out, and then to baniſh them off the <hi>Iſland,</hi> and force the Maſter of the ſhip to carry them from the <hi>Iſland</hi> that brought them thither; and moſt of theſe Freinds a fore mentioned, were baniſhed off the <hi>Iſland</hi> without any legall Triall, Evidence brought againſt them, Crime or breach of Law laid to their charge, which might occaſion juſtly their Baniſhment; and few Freinds were ever called before the <hi>Governour</hi> or <hi>Magiſtrates,</hi> but being taken by the <hi>Marſhall,</hi> were forced off the <hi>Iſland</hi> by a <hi>verball Order,</hi> only from the <hi>Governour.</hi>
+               </p>
+               <p>
+                  <hi>Juſtinian Holliman,</hi> Baniſhed off from <hi>Chriſtophers.</hi>
+               </p>
+               <p>Therefore in the <hi>Love, Patience, Wiſdome</hi> and <hi>Meekneſs,</hi> we would have you to Conſider theſe things in Juſtice, true Judgment and Equity; for our Friends be innocent, not lifting up a hand againſt any one, and own that which is juſt, which Eſtabliſheth a Kingdome. And the Lord Suffered <hi>Adam,</hi> though he diſobeyed, to have Liberty in the Earth, and <hi>Cain,</hi> and wild <hi>Iſhmael,</hi> and Prophane <hi>Eſau,</hi> whom God hated; And the true Chriſtians in the Primitive times, did not Compell nor force any about <hi>Maintenance</hi> nor <hi>Miniſtry;</hi> for we do not read that the Chriſtians did impriſon any <hi>for not Swearing,</hi> for <hi>not Paying Tythes,</hi> or <hi>for not going to their Publick places of Worſhip.</hi> Therefore theſe things came up ſince the Apoſtles dayes, for which they had no Example from them, nor Chriſt; which Chriſtians ſhould be more Moderate then all people upon the Earth, in the gentle and peaceable Wiſdome, that is pure from above: but the <hi>Juſt</hi> allwayes ſuffered, and the <hi>Sufferings</hi> of the <hi>Just</hi> is by them that live not in the Power of God; Therefore with the witneſs of God, Conſider theſe things; And if there be not liberty for Husband-men and Tradeſmen, it will be the Cauſe of ruining many Families, and will not be for Gods Honour, nor your profit, to hinder people from going about their Lawful occaſions, and from Meeting to<g ref="char:EOLhyphen"/>gether to Worſhip God.</p>
+               <p>And we being Peaceable, and ſeeking the peace of all men, and not lifting up a Hand againſt any one, to the revenging of our ſelves, though we have Suffered; therefore it is but reaſonable that we ſhould have <hi>Our Meetings,</hi> and it is not againſt the <hi>Apoſtles Doctrine,</hi> nor <hi>Chriſts,</hi> for Chriſtians <hi>to meet together</hi> to <hi>Edifie one another,</hi> and <hi>Build up one another in the holy Faith;</hi> and to <hi>Exhort one another daily,</hi> and <hi>not to forſake the Aſſembling together one with another:</hi> This was the Command and Example of the Apoſtles, who met together from houſe to houſe; and Chriſt, who met <hi>on Hills, Mountaines,</hi> and in the <hi>Wilderneſs,</hi> and <hi>houſes</hi> and <hi>Inns:</hi> And the Apoſtle <hi>Paul</hi> was Suffered to meet at <hi>Rome,</hi> where the Seat of the Emperour was; and the <hi>Prophet</hi> ſaid, <hi>They that feared the Lord met often together, whom the Lord heard, which were as his Jewels;</hi> Therefore <hi>Chriſtians</hi> ſhould not be ſtraitned from the Practice of the Apoſtles; for, if there was <hi>more Love</hi> among <hi>Chriſtians,</hi> where there is a great deal of Profeſſion, there would be more <hi>Edification;</hi> And not to be againſt ſuch as do <hi>Edifie one another</hi> according to the Practice of the Apoſtles: for Chriſt and the Apoſtles Meetings, were lookt upon to be <hi>Seditious</hi> and <hi>tumultuous</hi> as ours are, but our Innocency and theirs hath and doth manifeſt it ſelf; And this we deſire, that you all had the mind of <hi>Moſes,</hi> who ſaid, <hi>would all the Lords people were Prophets;</hi> for there was ſome in <hi>Moſes</hi> dayes
+<pb n="10" facs="tcp:46827:6"/>that would have limitted the Spirit: and Chriſt ſaid to the Jewes, <hi>Is it not Written, you ſhall all be taught of the Lord.</hi> And as Concerning <hi>Swearing,</hi> Chriſt hath Commanded <hi>not to Swear at all:</hi> And the Apoſtle James ſaid, <hi>My Brethren, above all things Swear not at all; but in all your Communications, let your yea be yea,</hi> and <hi>nay nay:</hi> this is Chriſts Doctrine, and the Apoſtles, who ſayes, <hi>Swear not at all, leaſt you fall into Condemnation.</hi> Now theſe are the true Chriſtians who obey Chriſt and the Apoſtles Doctrine; of whoſe Doctrine and Com<g ref="char:EOLhyphen"/>mands we are tender, and cannot Swear leaſt we Commit ſin and evill, and fall into Con<g ref="char:EOLhyphen"/>demnation: Chriſt and the Apoſtles hath commanded us in all our Communication to keep to <hi>yea</hi> and <hi>nay;</hi> And now, if our <hi>yea,</hi> be not <hi>yea,</hi> and <hi>nay nay,</hi> in all things, to you and all Magiſtrates, and all people, then let us Suffer if we break that, as them that break their Oaths. And let all the Priſon Doors be <hi>Set Open</hi> for the Innocent Men and Women, that many that have long lain in Priſon in Straw and Holes, and wanted Food, and where many have dyed; and this is that, we would not have their Innocent Blood brought upon you.</p>
+               <p>And let Armed men with naked Swords and Piſtols be ſtopt, who comes among naked Men, and Women, and Children, that be innocent, when they are met together to wait upon the Lord; which is a thing below the very Humanity of Men, and contrary to the Kings <hi>Proclamation,</hi> which ſaith, <hi>Souldiers ſhould not come into any houſe without a Civil Offi<g ref="char:EOLhyphen"/>cer, and a VVarrant.</hi>
+               </p>
+               <p>And all theſe <hi>Afflictions</hi> and <hi>Sufferings</hi> upon <hi>tender Conſciences</hi> in matters of <hi>Religion,</hi> are contrary to the <hi>Kings Declaration</hi> at <hi>Breda,</hi> and his <hi>Speeches</hi> and <hi>Promiſes</hi> ſince.</p>
+               <p>And Friends, It's a diſhonour, and not an honour to Chriſtian Religion, that Boyes, Girls, Fellows, and People, and Armed-men with Swords and Piſtols, ſhould ſtrike, beat, cut, and throw ſtones and dirt; and ſhout, and raiſe Heaps and Tumults, againſt an Innocent People that lifts up a hand againſt no man, that ſeeks the Righteouſneſs, and Good, and Peace of all People: And for Miniſters and Teachers to have their People to do ſo, is not of <hi>good report,</hi> but a <hi>reproach,</hi> and doth not grace a Magiſtrate, which is to <hi>keep Peace,</hi> and to lay the <hi>just Law</hi> upon <hi>Tranſgreſſors</hi> and <hi>Offenders,</hi> and to diſtinguiſh betwixt the <hi>Peaceable</hi> and the <hi>Tumultuous,</hi> and <hi>Offenders,</hi> and <hi>Tranſgreſſors,</hi> and ſuch as the Law was made for, and it was not made for.</p>
+               <p>And again, All the Chriſtian Magiſtrates and Miniſters do know that Chriſt ſaith, <hi>Let the Wheat and the Tares grow together till the Harvest;</hi> and this was Chriſts Doctrine and Command to his Miniſters: And the Apoſtles, which were Miniſters of Chriſt, ſaid, <hi>Their weapons were Spiritual,</hi> and <hi>not Carnal,</hi> and <hi>they did not wreſtle with fleſh and blood:</hi> therefore they that wreſtle with fleſh and blood, with carnal weapons, Are they the Miniſters of Chriſt? and do theſe follow the Apoſtles Examples? Doth not Chriſt rebuke ſuch as take the Brethren by the throat, whom he had forgiven in his Parable, and ſaid, how that all ſhould forgive one another? And doth not Chriſt rebuke them that did not viſit him in Priſon; Therefore what will become of them that caſt him in Priſon, where he is manifeſt? Therefore we would have you in the Wiſdom of God to conſider theſe things, and in the feeling of Gods Spirit; for every one muſt give an account at the day of Judgment to God <hi>for every idle word,</hi> and <hi>all things done in the body.</hi> And doth not Chriſt rebuke his Miniſters, and his Diſciples, who would have had fire come down from Heaven to conſume them, as the Prophet did, that were contrary-minded to them, and told them that <hi>he came to ſave mens lives,</hi> and <hi>not to deſtroy them:</hi> Therefore mind him, his Doctrine and Practice, and let him be your Example in all things, by whom <hi>Grace</hi> came; but the <hi>Law came by Moſes</hi> (which Chriſt ended) which put men to death about Religion: And <hi>this is my beloved Son, Hear ye Him,</hi> ſaith God, who is the Prophet raiſed like unto <hi>Moſes;</hi> whom we do hear, and have done theſe many years, who is our Way, Truth and Life.</p>
+               <p>And Friends, if you will not ſet our <hi>Friends</hi> at <hi>Liberty,</hi> which lye in Holes and Dunge<g ref="char:EOLhyphen"/>ons, and ſome without Straw, and ſome hardly have Air, and many can hardly get Meat, and many have died through the Cruel Sufferings and Abuſes of the Goalers and others; we offer unto you of our ſelves that be out of Priſon, as many as lye in Priſon, to go into their <hi>Holes, Dungeons, ſtinking Vaults</hi> and <hi>Places,</hi> where ſome of our Friends have lain, two, three, and ſome four or five years, That they may go out of Priſon, and not dye there, as many have done, whoſe innocent blood we leave to the Lord: And this is but our Duty, in
+<pb n="11" facs="tcp:46827:6"/>love to God and our Brethren, and to ſuch as do perſecute and afflict us, to ſtop innocent Blood from coming upon You and the People: And this is in Love to your Souls, from the People of God called <hi>QUAKERS.</hi>
+               </p>
+               <list>
+                  <head>VVe ſubſcribe in behalf of our ſelves and the reſt of our Brethren.</head>
+                  <item>
+                     <hi>Thomas Coveney.</hi>
+                  </item>
+                  <item>
+                     <hi>Ger. Roberts.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Bruſh.</hi>
+                  </item>
+                  <item>
+                     <hi>Char. Collins.</hi>
+                  </item>
+                  <item>
+                     <hi>William Goſnel.</hi>
+                  </item>
+                  <item>
+                     <hi>Richard Pinder.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Brooke.</hi>
+                  </item>
+                  <item>
+                     <hi>Gilbert Laty.</hi>
+                  </item>
+                  <item>
+                     <hi>Humphrey Bache.</hi>
+                  </item>
+                  <item>
+                     <hi>Ellis Hooks.</hi>
+                  </item>
+                  <item>
+                     <hi>John Lawrence.</hi>
+                  </item>
+                  <item>
+                     <hi>John Rous.</hi>
+                  </item>
+               </list>
+               <p>VVe are ſuch as do fear the God of Heaven, and delight to ſerve him with all the heart; and we worſhip him in Spirit and Truth, and do walk in his Light and VVay, and are followers of Chriſt Jeſus, and are taught by his Spirit ſo far, as he hath bleſſed us with the gifts of Grace and Knowledge; And we deſire to be found ſuch as may ſerve the Lord God in uprightneſs of our hearts all our dayes, keeping a good Conſcience towards God and all men, That we may be to him a People, and he our God; and that we may poſſeſs and inherit Eternal Life with the Father, when this VVorld ſhall be no more.</p>
+               <p>And we have alwayes been a <hi>ſuffering People,</hi> under every Authority that hath been over us ſince we were a People; and the Rulers of theſe Kingdoms have perſecuted us, by cruel and hard Impriſonments, Scourgings, falſe Judgments, and much evil dealing exerciſed towards us; And all this for and becauſe only of our Religion and good Conſcience ſake to God-wards, and not for any Rebellion, Sedition, or wrong doing towards them, or our Neighbours; for it hath been our only care, how to walk juſtly and innocently in the ſight of God towards Rulers and People, and have been peaceable towards all; And herein we have deſired to approve our hearts in much Integrity and Sincerity, that we might be found <hi>blameleſs before the Lord,</hi> as himſelf doth bear us witneſs.</p>
+               <p>And we are at this very day the ſame towards you, <hi>innocent</hi> and <hi>peaceable,</hi> and clear from <hi>all Rebellion, Plots,</hi> or <hi>Actions</hi> and <hi>Intentions</hi> of <hi>Evil;</hi> we deſire not your <hi>hurt,</hi> but your <hi>good,</hi> even that ye may walk in the <hi>VVay of Peace,</hi> and your ſouls may <hi>live</hi> and <hi>not periſh;</hi> and that ye may fear the God of Heaven, and may walk in his VViſdom and Counſel and not be deſtroyed: And ſuch is our Innocency of heart towards you, that we can ſay, VVho is the man that can truly accuſe and detect us of the contrary? for ſuch hath been our peaceable deportment ever ſince the King's arrival, that no guilt of Rebellion in action or intention is found with us; But we are clear of all theſe things, however other<g ref="char:EOLhyphen"/>wiſe falſly ſuſpected or judged; And we deſire nothing of you, but that we may live a <hi>quiet and peaceable life, in all Godlineſs and Honeſty,</hi> under the King; and that we may be per<g ref="char:EOLhyphen"/>mitted to ſerve the Lord our God, and worſhip him in the true exerciſe of a pure Conſci<g ref="char:EOLhyphen"/>ence, according to the teachings of his own Spirit in the matters of Faith and VVorſhip, and Duty towards him. This we only deſire, That we may ſerve the Lord, and render all due Obedience to them that have Rule over us.</p>
+               <p>And ſeeing ye have now our Caſe before you, If yet it be in your hearts and purpoſes, to afflict us yet more, and to enact againſt us to our Impriſonment, Baniſhment, or whatſo<g ref="char:EOLhyphen"/>ever, for and becauſe of our Religion and good Conſcience, we are reſolved in the Lord in much patience to bear it, and <hi>not rendring evil for evil,</hi> but innocently to ſubmit to what<g ref="char:EOLhyphen"/>ſoever the Lord ſuffers to be done unto us; And we ſhall leave it to the Juſt God of Hea<g ref="char:EOLhyphen"/>ven to plead our Cauſe, and to determine the Controverſie between <hi>You</hi> and <hi>Us</hi> in his day; VVe ſay, if you yet cauſe us to ſuffer greater things than theſe, it is as we are <hi>Christians,</hi>
+                  <pb n="12" facs="tcp:46827:7"/>and <hi>Servants of Chriſt,</hi> for we are Innocent towards you; and we are perſwaded in the Lord to be <hi>faithful,</hi> and never to renounce our <hi>good Conſciences,</hi> nor to <hi>deny Chriſt before men,</hi> but to <hi>confeſs him,</hi> and <hi>profeſſe him,</hi> and <hi>follow him in the ſight of all men,</hi> notwithſtand<g ref="char:EOLhyphen"/>ing whatſoever Sufferings may come upon us for the ſame; and if we periſh in this World for ſo doing, our Blood will be upon our Perſecutors, and we ſhall have Peace with the Lord our God; even while the <hi>Guilt</hi> of our Deſtruction reſteth with ſuch as ſeek our hurt. And therefore our deſire is, That ye would truly weigh and conſider theſe things in the Fear and VViſdom of God, and how dangerous a thing it is, both to Us and Your ſelves, to enact the <hi>Baniſhment</hi> of ſo many thouſands of Perſons and Families, upon the account of <hi>difference in Religion:</hi> Oh! do not put us upon ſuch a ſad Extremity, by making ſuch a Law, by which we are concluded, either to <hi>diſobey Chriſt Jeſus</hi> and <hi>his Law,</hi> and ſo to deny Chriſt, and renounce our good Conſciences, and ſo to expoſe us to the VVrath and Anger of God perpetually; or to <hi>break your Law,</hi> and <hi>diſobey your Autho<g ref="char:EOLhyphen"/>rity,</hi> and ſo to expoſe us to <hi>utter ruine</hi> in this VVorld.</p>
+               <p>Conſider of this, and let the Law of God teach you, <hi>To do to others as you would be done unto in the like caſe.</hi>
+               </p>
+            </div>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:46827:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
